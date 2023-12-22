@@ -1,0 +1,18 @@
+.header {
+    padding: 2px 10%;
+    background-color: #333;
+}
+
+.header__content {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    height: 64px;
+    align-items: center;
+}
+
+.content__search {
+    display: flex;
+    justify-content: flex-end;
+    width: 20%;
+}
